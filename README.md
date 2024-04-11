@@ -1,2 +1,2 @@
-# Life_Download.github.io
-Installation isn't available. Please, scan QR-Code to install.
+# Life
+The new explorer language, Life. **Download Now!**
